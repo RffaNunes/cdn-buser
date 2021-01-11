@@ -1,7 +1,7 @@
 html,
 body {
     font-family: Roboto, sans-serif;
-    background: url(https://th3el.github.io/cdn-buser/wp.jpg) center center;
+    background: url(https://rffanunes.github.io/cdn-buser/wp.jpg) center center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -33,7 +33,7 @@ body {
 }
 .box .box-content .bc-text p {
     font-size: 24px;
-    max-width: 900px;
+    max-width: 630px;
     margin-top: 24px;
     display: inline-block;
 }
